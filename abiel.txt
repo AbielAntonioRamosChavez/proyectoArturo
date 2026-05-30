@@ -1,0 +1,4 @@
+Nombre: Abiel Ramos
+Edad: 21 años
+Fecha de nacimiento: 10/05/2005
+Color favorito: Azul
